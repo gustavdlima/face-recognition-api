@@ -15,6 +15,7 @@ This Python API provides facial recognition capabilities using OpenCV and dlib l
 
 - Python 3.7+
 - pip (Python package installer)
+- OpenCV
 
 ### Setup
 
